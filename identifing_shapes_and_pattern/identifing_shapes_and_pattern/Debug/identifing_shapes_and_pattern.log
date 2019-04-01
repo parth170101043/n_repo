@@ -1,0 +1,140 @@
+﻿Build started 19-03-2019 00:18:46.
+     1>Project "C:\Users\IIT\Desktop\PROJECT-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\identifing_shapes_and_pattern.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\identifing_shapes_and_pattern.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\identifing_shapes_and_pattern.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt form2.cpp identifing_shapes_and_pattern.cpp /clr:nostdlib 
+         form2.cpp
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(19): error C3845: 'identifing_shapes_and_pattern::form2::str': only static data members can be initialized inside a ref class or value type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(27): warning C4183: 'formlearn': missing return type; assumed to be a member function returning 'int'
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(143): warning C4183: 'formlearn': missing return type; assumed to be a member function returning 'int'
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(144): error C2059: syntax error : '.'
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(144): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(154): error C2059: syntax error : '.'
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(154): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(158): error C2059: syntax error : '.'
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(158): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+     1>form2.cpp(4): fatal error C1075: end of file found before the left brace '{' at 'c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(3)' was matched
+         identifing_shapes_and_pattern.cpp
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(19): error C3845: 'identifing_shapes_and_pattern::form2::str': only static data members can be initialized inside a ref class or value type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(27): warning C4183: 'formlearn': missing return type; assumed to be a member function returning 'int'
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(143): warning C4183: 'formlearn': missing return type; assumed to be a member function returning 'int'
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(144): error C2059: syntax error : '.'
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(144): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(154): error C2059: syntax error : '.'
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(154): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(158): error C2059: syntax error : '.'
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(158): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\Form1.h(3): error C2143: syntax error : missing ';' before 'namespace'
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(23): error C3861: 'InitializeComponent': identifier not found
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(30): error C3861: 'InitializeComponent': identifier not found
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(36): error C2143: syntax error : missing ';' before 'protected'
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(41): error C2143: syntax error : missing ';' before '{'
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(42): error C2065: 'components' : undeclared identifier
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(44): error C2065: 'components' : undeclared identifier
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(44): error C2541: 'delete' : cannot delete objects that are not pointers
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(48): error C2143: syntax error : missing ';' before 'protected'
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(52): error C2143: syntax error : missing ';' before 'private'
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(53): error C2143: syntax error : missing ';' before 'private'
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(54): error C2143: syntax error : missing ';' before 'private'
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(55): error C2143: syntax error : missing ';' before 'private'
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(57): error C2143: syntax error : missing ';' before 'private'
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(69): error C2601: 'InitializeComponent' : local function definitions are illegal
+                 c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(3): this line contains a '{' which has not yet been matched
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(140): error C2143: syntax error : missing ';' before 'private'
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(140): error C2143: syntax error : missing ';' before '{'
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(148): error C2065: 'textBox1' : undeclared identifier
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(148): error C2227: left of '->Text' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(149): error C2065: 'next' : undeclared identifier
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(149): error C2227: left of '->Left' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(150): error C2065: 'back' : undeclared identifier
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(150): error C2227: left of '->Left' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(151): error C2065: 'last' : undeclared identifier
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(151): error C2227: left of '->Hide' must point to class/struct/union/generic type
+                 type is ''unknown-type''
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(70): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(70): error C2227: left of '->last' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(71): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(71): error C2227: left of '->next' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(72): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(72): error C2227: left of '->back' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(73): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(73): error C2227: left of '->button4' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(74): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(74): error C2227: left of '->textBox1' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(75): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(75): error C2227: left of '->SuspendLayout' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(79): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(79): error C2227: left of '->last' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(79): error C2227: left of '->Location' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(80): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(80): error C2227: left of '->last' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(80): error C2227: left of '->Name' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(81): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(81): error C2227: left of '->last' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(81): error C2227: left of '->Size' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(82): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(82): error C2227: left of '->last' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(82): error C2227: left of '->TabIndex' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(83): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(83): error C2227: left of '->last' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(83): error C2227: left of '->Text' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(84): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(84): error C2227: left of '->last' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(84): error C2227: left of '->UseVisualStyleBackColor' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(88): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(88): error C2227: left of '->next' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(88): error C2227: left of '->Location' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(89): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(89): error C2227: left of '->next' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(89): error C2227: left of '->Name' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(90): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(90): error C2227: left of '->next' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(90): error C2227: left of '->Size' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(91): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(91): error C2227: left of '->next' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(91): error C2227: left of '->TabIndex' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(92): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(92): error C2227: left of '->next' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(92): error C2227: left of '->Text' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(93): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(93): error C2227: left of '->next' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(93): error C2227: left of '->UseVisualStyleBackColor' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(97): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(97): error C2227: left of '->back' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(97): error C2227: left of '->Location' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(98): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(98): error C2227: left of '->back' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(98): error C2227: left of '->Name' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(99): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(99): error C2227: left of '->back' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(99): error C2227: left of '->Size' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(100): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(100): error C2227: left of '->back' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(100): error C2227: left of '->TabIndex' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(101): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(101): error C2227: left of '->back' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(101): error C2227: left of '->Text' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(102): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(102): error C2227: left of '->back' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(102): error C2227: left of '->UseVisualStyleBackColor' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(103): error C2355: 'this' : can only be referenced inside non-static member functions
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(103): error C2227: left of '->back' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(103): error C2227: left of '->Click' must point to class/struct/union/generic type
+     1>c:\users\iit\desktop\project-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\form2.h(103): fatal error C1003: error count exceeds 100; stopping compilation
+         Generating Code...
+     1>Done Building Project "C:\Users\IIT\Desktop\PROJECT-shapes\vs 10\identifing_shapes_and_pattern\identifing_shapes_and_pattern\identifing_shapes_and_pattern.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.46

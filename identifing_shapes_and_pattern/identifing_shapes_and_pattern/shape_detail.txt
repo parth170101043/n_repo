@@ -1,0 +1,55 @@
+1) Circle:A circle is a simple closed shape. It is the set of all points in a plane that are at a given distance from a given point, the centre; equivalently it is the curve traced out by a point that moves so that its distance from a given point is constant.
+2) Semi-Circle:A semicircle is a one-dimensional locus of points that forms half of a circle. The full arc of a semicircle always measures 180° (equivalently, p radians, or a half-turn).
+3) Triangle:A triangle is a closed shape with three edges and three vertices.Sum of all the interior angles of triangle is 180° Types of Triangle: 
+Based on angle 1)Acute angled triangle   2)Right angled triangle   3)Obtuse angled triangle      
+Based on side length   1)Equilateral triangle   2)Isosceles triangle   3)Scalene triangle
+4) Acute-angled triangle:An acute-angled triangle is a triangle in which all angles are acute angle.
+5) Right-angled_triangle:A right-angled triangle is a triangle in which one angle is a right angle (that is, a 90-degree angle). The relation between the sides and angles of a right triangle is the basis for trigonometry.right-angled triangle follows pythagoras theorem.
+6) Obtuse Triangle:An obtuse triangle is a triangle in which one of the angles is an obtuse angle.
+7) Euilateral-triangle:An equilateral triangle has all sides the same length. An equilateral triangle is also a regular polygon with all angles measuring 60°.
+8) Isosceles-triangle:An isosceles triangle is a triangle that has atleast two sides of equal length.
+9) Scalene-triangle:A scalene triangle has all its sides of different lengths.Equivalently, it has all angles of different measure.The angles opposite to the two sides of the same length are equal.
+10) Quadrilateral:A quadrilateral is a polygon with four edges (or sides) and four vertices or corners.Sum of all the interior angles of quadrilateral is 360°. Types of Quadrilateral:
+1)Parallelogram  2)Rectangle  3)Rhombus  4)Square  5)Trapezium  6)Kite 
+11) Parallelogram:A parallelogram is a simple (non-self-intersecting) quadrilateral with two pairs of parallel sides. The opposite or facing sides of a parallelogram are of equal length and the opposite angles of a parallelogram are of equal measure.The diagonals bisect each other.
+12)Rectangle:A Rectangle is a simple (non-self-intersecting) quadrilateral with two pairs of parallel sides and all angles measuring 90°. The opposite or facing sides of a Rectangle are of equal length .The diagonals of rectangle are of equal length and bisect each other.
+13)Rhombus:A quadrilateral having all sides are equal.The rhombus is often called a diamond, after the diamonds suit in playing cards which resembles the projection of an octahedral diamond, diagonals are perpendicular and bisect each other. Each diagonal bisect two opposite interior angles.Opposite angles are equal.
+14)Square:A square is a regular quadrilateral, which means that it has four equal sides and four equal angles (90-degree angles, or (100-gradian angles or right angles). It can also be defined as a rectangle in which two adjacent sides have equal length.The diagonals of a square are equal in length and it bisects the angles of square.Diagonals are perpendicular bisector to each other.
+15)Trapezium:A quadrilateral having at least one pair of opposite sides are parallel.
+16)Kite:Atleast two pairs of adjacent sides are of equal length.Diagonals are perpendicular to each other and longer digonal bisects the shorter.the angles between the two pairs of equal sides are equal in measure.
+17) Sphere:A sphere is a perfectly round geometrical object in three-dimensional space that is the surface of a completely round.A sphere is defined mathematically as the set of points that are all at the same distance r from a given point, but in a three-dimensional space.Radius (r) of sphere is the distance between centre of the sphere and any one point on its surface.Examples:Ball,Earth,The Moon etc.
+18) Cube: A cube is a three-dimensional solid object bounded by six square faces, facets or sides, with three meeting at each vertex.The cube is the only regular hexahedron and is one of the five Platonic solids. It has 6 faces, 12 edges, and 8 vertices.The cube is also a square parallelepiped, an equilateral cuboid and a right rhombohedron. It is a regular square prism in three orientations, and a trigonal trapezohedron in four orientations.The cube is dual to the octahedron. It has cubical or octahedral symmetry.Examples: Dice,Rubik Cube, Ice cubes etc.
+19) Cone:A cone is a three-dimensional geometric shape that tapers smoothly from a flat base (frequently, though not necessarily, circular) to a point called the apex or vertex.A cone is formed by a set of line segments, half-lines, or lines connecting a common point, the apex, to all of the points on a base that is in a plane that does not contain the apex. Depending on the author, the base may be restricted to be a circle, any one-dimensional quadratic form in the plane, any closed one-dimensional figure, or any of the above plus all the enclosed points. If the enclosed points are included in the base, the cone is a solid object; otherwise it is a two-dimensional object in three-dimensional space. In the case of a solid object, the boundary formed by these lines or partial lines is called the lateral surface; if the lateral surface is unbounded, it is a conical surface.
+20) Cylinder:A cylinder always means a circular cylinder. The height (or altitude) of a cylinder is the perpendicular distance between its bases.
+21)Torus:a torus is a surface of revolution generated by revolving a circle in three-dimensional space about an axis coplanar with the circle.Real-world examples of toroidal objects include inner tubes. A torus should not be confused with a solid torus, which is formed by rotating a disc, rather than a circle, around an axis. A solid torus is a torus plus the volume inside the torus. Real-world approximations include doughnuts, non-inflatable lifebuoys, and O-rings.
+22) Pyramid:A pyramid is a polyhedron formed by connecting a polygonal base and a point, called the apexEach base edge and apex form a triangle, called a lateral face. It is a conic solid with polygonal base. A pyramid with an n-sided base has n + 1 vertices, n + 1 faces, and 2n edges.Examples: Egyptian pyramid is a triangular pyramid, Square pyramid etc.
+23) Heptagon:In geometry, a heptagon is a seven-sided polygon or 7-gon.
+24) Quater-circle:A Quater-circle is a one-dimensional locus of points that forms quater of a circle. The full arc of a Quater-circle always measures 90°.
+25) Kite:Atleast two pairs of adjacent sides are of equal length.Diagonals are perpendicular to each other and longer digonal bisects the shorter.the angles between the two pairs of equal sides are equal in measure.
+26) Pentagon:A pentagon is any five sided polygon.The sum of the interior angles in a pentagon is 540-degree.There are two types:
+i)Regular pentagon -Length of all sides is equal   ii)Irregular pentagon -All sides can be of any length.
+27) Hexagon:A Hexagon is any Six sided polygon.The sum of the interior angles in a Hexagon is 720-degree.There are two types:
+i)Regular Hexagon -Length of all sides is equal   ii)Irregular Hexagon -All sides can be of any length.
+28) Heptagon:A Heptagon is any Seven sided polygon.The sum of the interior angles in a Heptagon is 900-degree.There are two types:
+i)Regular Heptagon -Length of all sides is equal   ii)Irregular Heptagon -All sides can be of any length
+29) Octagon:A Octagon is any Eight sided polygon.The sum of the interior angles in a Octagon is 1080-degree.There are two types:
+i)Regular Octagon -Length of all sides is equal   ii)Irregular Octagon -All sides can be of any length.
+30) Nonagon:A Nonagon is any Nine sided polygon.The sum of the interior angles in a Hexagon is 1260-degree.There are two types:
+i)Regular Nonagon -Length of all sides is equal   ii)Irregular Nonagon -All sides can be of any length.
+31) Decagon:A Decagon is any Ten sided polygon.The sum of the interior angles in a Decagon is 1440-degree.There are two types:
+i)Regular Decagon -Length of all sides is equal   ii)Irregular Decagon -All sides can be of any length.
+32) Cuboid:A cuboid is a convex polyhedron bounded by six quadrilateral faces, whose polyhedral graph is the same as that of a cube.cuboid is also known as a rectangular cuboid, right cuboid, rectangular box, rectangular hexahedron, right rectangular prism, or rectangular parallelepiped.
+33) Prism:A prism is a polyhedron comprising an n-sided polygonal base, a second base which is a translated copy (rigidly moved without rotation) of the first, and n other faces (necessarily all parallelograms) joining corresponding sides of the two bases. All cross-sections parallel to the bases are translations of the bases. Prisms are named for their bases, so a prism with a pentagonal base is called a pentagonal prism. The prisms are a subclass of the prismatoids.Examples of Prism:Triangular prism, Square prism, Rectangular Prism etc.
+34) Parallelepiped: A parallelepiped is a three-dimensional figure formed by six parallelograms (the term rhomboid is also sometimes used with this meaning). By analogy, it relates to a parallelogram just as a cube relates to a square or as a cuboid to a rectangle.Three equivalent definitions of parallelepiped are:
+A polyhedron with six faces (hexahedron), each of which is a parallelogram (OR) A hexahedron with three pairs of parallel faces (OR) A prism of which the base is a parallelogram.
+The rectangular cuboid (six rectangular faces), cube (six square faces), and the rhombohedron (six rhombus faces) are all specific cases of parallelepiped.
+35) Frustum:  A frustum (plural: frusta or frustums) is the portion of a solid (normally a cone or pyramid) that lies between one or two parallel planes cutting it. A right frustum is a parallel truncation of a right pyramid or right cone.Types of frustum:
+i)Conical frustum ii)Pyramidal frustum.
+36) Tetrahedron: A tetrahedron (plural: tetrahedra or tetrahedrons), also known as a triangular pyramid, is a polyhedron composed of four triangular faces, six straight edges, and four vertex corners. The tetrahedron is the simplest of all the ordinary convex polyhedra and the only one that has fewer than 5 faces.
+37) Octahedron: An octahedron (plural: octahedra) is a polyhedron with eight faces, twelve edges, and six vertices. The term is most commonly used to refer to the regular octahedron, a Platonic solid composed of eight equilateral triangles, four of which meet at each vertex.A regular octahedron is the dual polyhedron of a cube. It is a rectified tetrahedron. It is a square bipyramid in any of three orthogonal orientations. It is also a triangular antiprism in any of four orientations.
+
+
+
+
+
+
