@@ -1,0 +1,42 @@
+﻿Build started 30-03-2019 13:25:12.
+     1>Project "C:\Users\IIT\Desktop\Today\final_identifying_shape -\final_identifying_shape\final_identifying_shape.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\final_identifying_shape.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\final_identifying_shape.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt drawshap.cpp final_identifying_shape.cpp /clr:nostdlib 
+         drawshap.cpp
+     1>c:\users\iit\desktop\today\final_identifying_shape -\final_identifying_shape\drawshap.h(1485): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+         final_identifying_shape.cpp
+     1>c:\users\iit\desktop\today\final_identifying_shape -\final_identifying_shape\drawshap.h(1485): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+         Generating Code...
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\IIT\Desktop\Today\final_identifying_shape -\Debug\final_identifying_shape.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\final_identifying_shape.all_shape.resources /ASSEMBLYRESOURCE:Debug\final_identifying_shape.drawshap.resources /ASSEMBLYRESOURCE:Debug\final_identifying_shape.Form1.resources /ASSEMBLYRESOURCE:Debug\final_identifying_shape.game.resources /ASSEMBLYRESOURCE:Debug\final_identifying_shape.question_no_figure.resources /ASSEMBLYRESOURCE:Debug\final_identifying_shape.question_with_figure.resources /ASSEMBLYRESOURCE:Debug\final_identifying_shape.shape_defination.resources /MANIFEST /ManifestFile:"Debug\final_identifying_shape.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\IIT\Desktop\Today\final_identifying_shape -\Debug\final_identifying_shape.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\all_shape.obj
+         Debug\AssemblyInfo.obj
+         Debug\drawshap.obj
+         Debug\final_identifying_shape.obj
+         Debug\game.obj
+         Debug\question_no_figure.obj
+         Debug\question_with_figure.obj
+         Debug\shape_defination.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         final_identifying_shape.vcxproj -> C:\Users\IIT\Desktop\Today\final_identifying_shape -\Debug\final_identifying_shape.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\IIT\Desktop\Today\final_identifying_shape -\Debug\final_identifying_shape.exe;#1" /manifest Debug\final_identifying_shape.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\final_identifying_shape.unsuccessfulbuild".
+         Touching "Debug\final_identifying_shape.lastbuildstate".
+     1>Done Building Project "C:\Users\IIT\Desktop\Today\final_identifying_shape -\final_identifying_shape\final_identifying_shape.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.04
